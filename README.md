@@ -10,5 +10,8 @@ These materials are for demo usage purpose.
 Azure ML Service:
 https://azure.microsoft.com/en-us/services/machine-learning-service/
 
+Related info:
+https://social.msdn.microsoft.com/Forums/en-US/a585b50b-7e93-48de-942a-0901cdf5d555/question-on-azure-machine-learning-addin-on-the-excel-sheet?forum=AzureMachineLearningService
+
 
 
